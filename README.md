@@ -1,2 +1,3 @@
 # MI-Assignments
-UE20CS302 lab
+UE20CS302 Machine Intelligence lab assignments  
+PES University
